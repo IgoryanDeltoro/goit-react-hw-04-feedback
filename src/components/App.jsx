@@ -9,7 +9,6 @@ const Feedback = () => {
   const [bad, setBad] = useState(0);
 
   const counterFeedback = name => {
-    console.log(name);
     switch (name) {
       case 'good':
         setGood(prevState => prevState + 1);
