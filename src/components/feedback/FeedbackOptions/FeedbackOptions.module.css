@@ -1,0 +1,15 @@
+[type='button'] {
+  padding: 5px;
+  border-radius: 4px;
+  margin-right: 15px;
+  border: 0 transparent;
+}
+.goodBtn {
+  background-color: rgb(75, 208, 75);
+}
+.neutralBtn {
+  background-color: rgb(93, 140, 229);
+}
+.badBtn {
+  background-color: rgb(255, 128, 0);
+}
